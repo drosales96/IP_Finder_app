@@ -7,12 +7,10 @@
 - [Características](#características)
 - [Conceptos Clave](#conceptos-clave)
 - [Instalación](#instalación)
-- [Uso](#uso)
 - [Ejemplo de Respuesta](#ejemplo-de-respuesta)
 - [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
-- [Enlace a la Aplicación](#enlace-a-la-aplicación)
+- [Contacto](https://www.linkedin.com/in/diego-francisco-rosales-canalejo-842736258/)
+- [Enlace a la Aplicación]((https://ipfinderdr.netlify.app/))
 
 ## Características
 
