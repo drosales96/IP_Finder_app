@@ -51,7 +51,7 @@ Un ASN es un identificador único para sistemas autónomos en Internet. Los sist
 
 Para cualquier pregunta, soporte adicional o consultas sobre el proyecto, contacta con el desarrollador en:
 
-    *Email:* (diegorcs95@gmail.com)
-    *LinkedIn:* (https://www.linkedin.com/in/diego-francisco-rosales-canalejo-842736258/)
+    ### Email: (diegorcs95@gmail.com)
+    ### LinkedIn: (https://www.linkedin.com/in/diego-francisco-rosales-canalejo-842736258/)
 
 
