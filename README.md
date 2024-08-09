@@ -2,15 +2,7 @@
 
 **IPFinder** es una aplicación web diseñada para geolocalizar direcciones IP, tanto en formato IPv4 como IPv6. Utilizando una API avanzada, IPFinder ofrece información detallada sobre la ubicación geográfica y la red asociada con cualquier IP que introduzcas. Esta aplicación es ideal para desarrolladores, administradores de redes y cualquier persona interesada en obtener datos precisos sobre direcciones IP.
 
-## Índice
-
-- [Características](#características)
-- [Conceptos Clave](#conceptos-clave)
-- [Instalación](#instalación)
-- [Ejemplo de Respuesta](#ejemplo-de-respuesta)
-- [Contribuciones](#contribuciones)
-- [Contacto](#contacto)
-- [Enlace a la Aplicación](#enlace)
+### Enlace a la APP : (https://ipfinderdr.netlify.app/)
 
 ## Características
 
