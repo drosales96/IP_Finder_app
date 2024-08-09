@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPFinder</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="ip.png" type="image/png">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+  </head>
+  <body>
+    <html data-theme="dark">
+      <main class="container">
+        <form id="form">
+          <label>
+            IP del usuario
+            <input required id="input" type="text" placeholder="Introduce aquí tu IP">
+            <small>Ejemplo: 192.228.17.57</small>
+          </label>
+          <button type="submit" id="submit">
+            Buscar información de esta IP
+          </button>
+          <div id="error" style="color: red;"></div>
+        </form>
+      </main>
+      <div>
+        <pre id="results"></pre>
+      </div>
+      <div>
+        <p class="copyright"><strong>Welcome to IPFinder developed by drosales © 2024 drosales. All rights reserved.</strong></p>
+      </div>
+    </html>
+    <script type="module" src="script.js"></script>
+  </body>
+</html>
