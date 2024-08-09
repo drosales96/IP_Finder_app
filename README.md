@@ -38,13 +38,13 @@ Un ASN es un identificador único para sistemas autónomos en Internet. Los sist
 ## Ejemplo de Respuesta
 
 {
-  "IP": "2a0c:5a85:6301:1f00:3621:a3d5:9d84:4fa1",
-  "City": "Málaga",
-  "Country": "Spain",
-  "Latitude": 36.7125,
-  "Longitude": -4.407,
-  "ASN": 57269,
-  "Autonomous System Name": "DIGI SPAIN TELECOM S.L."
+  "IP": "2a0c:5a85:6301:1f00:3621:a3d5:9d84:4fa1", <br>
+  "City": "Málaga", <br>
+  "Country": "Spain", <br>
+  "Latitude": 36.7125, <br>
+  "Longitude": -4.407, <br>
+  "ASN": 57269, <br>
+  "Autonomous System Name": "DIGI SPAIN TELECOM S.L." <br>
 }
 
 ## Contacto 📞
