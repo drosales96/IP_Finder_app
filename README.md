@@ -1,4 +1,4 @@
-# IPFinder
+# IPFinder 🖥️
 
 **IPFinder** es una aplicación web diseñada para geolocalizar direcciones IP, tanto en formato IPv4 como IPv6. Utilizando una API avanzada, IPFinder ofrece información detallada sobre la ubicación geográfica y la red asociada con cualquier IP que introduzcas. Esta aplicación es ideal para desarrolladores, administradores de redes y cualquier persona interesada en obtener datos precisos sobre direcciones IP.
 
@@ -9,8 +9,8 @@
 - [Instalación](#instalación)
 - [Ejemplo de Respuesta](#ejemplo-de-respuesta)
 - [Contribuciones](#contribuciones)
-- [Contacto](https://www.linkedin.com/in/diego-francisco-rosales-canalejo-842736258/)
-- [Enlace a la Aplicación]((https://ipfinderdr.netlify.app/))
+- [Contacto](#contacto)
+- [Enlace a la Aplicación](#enlace)
 
 ## Características
 
@@ -21,7 +21,7 @@
 
 ## Conceptos Clave
 
-### Geolocalización de IP
+### Geolocalización de IP 🌍
 
 La geolocalización de IP es el proceso de determinar la ubicación geográfica aproximada de un dispositivo basándose en su dirección IP. Este proceso se realiza consultando bases de datos que asocian direcciones IP con ubicaciones físicas.
 
@@ -34,7 +34,7 @@ La geolocalización de IP es el proceso de determinar la ubicación geográfica 
 
 Un ASN es un identificador único para sistemas autónomos en Internet. Los sistemas autónomos son colecciones de direcciones IP y rutas de red bajo el control de una única entidad que presenta una política de enrutamiento común.
 
-## Instalación
+## Instalación 🪛
 
 1. **Clonar el Repositorio**
 
@@ -42,3 +42,24 @@ Un ASN es un identificador único para sistemas autónomos en Internet. Los sist
 
    ```bash
    git clone https://github.com/tu-usuario/IPFinder.git
+
+## Ejemplo de Respuesta
+
+{
+  "IP": "2a0c:5a85:6301:1f00:3621:a3d5:9d84:4fa1",
+  "City": "Málaga",
+  "Country": "Spain",
+  "Latitude": 36.7125,
+  "Longitude": -4.407,
+  "ASN": 57269,
+  "Autonomous System Name": "DIGI SPAIN TELECOM S.L."
+}
+
+## Contacto 📞
+
+Para cualquier pregunta, soporte adicional o consultas sobre el proyecto, contacta con el desarrollador en:
+
+    Email: diegorcs95@gmail.com
+    LinkedIn: https://www.linkedin.com/in/diego-francisco-rosales-canalejo-842736258/
+
+
